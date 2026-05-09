@@ -3,7 +3,7 @@
   "updateTime": "09:45",
   "source": "菠菜maplestory碎碎念",
   "goldPrices": [
-    { "server": "一区路西德222", "price": 0.87, "change": 0.02, "isChallenger": false },
+    { "server": "一区路西德", "price": 0.87, "change": 0.02, "isChallenger": false },
     { "server": "一区威尔", "price": 0.65, "change": 0.03, "isChallenger": false },
     { "server": "一区奥尔卡", "price": 0.70, "change": -0.01, "isChallenger": false },
     { "server": "一区蓝蜗牛", "price": 0.85, "change": -0.03, "isChallenger": false },
