@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-08",
+  "updateTime": "10:58",
+  "source": "菠菜maplestory碎碎念",
+  "goldPrices": [
+    { "server": "一区路西德", "price": 0.85, "change": -0.06, "isChallenger": false },
+    { "server": "一区威尔", "price": 0.62, "change": -0.02, "isChallenger": false },
+    { "server": "一区奥尔卡", "price": 0.71, "change": 0, "isChallenger": false },
+    { "server": "一区蓝蜗牛", "price": 0.88, "change": -0.01, "isChallenger": false },
+    { "server": "二区戴米安", "price": 0.53, "change": 0, "isChallenger": false },
+    { "server": "三区希拉", "price": 0.46, "change": 0, "isChallenger": false },
+    { "server": "四区班雷昂", "price": 0.67, "change": 0, "isChallenger": false },
+    { "server": "五区麦格纳斯", "price": 0.50, "change": 0, "isChallenger": false },
+    { "server": "挑战者1区", "price": 0.90, "change": -0.03, "isChallenger": true },
+    { "server": "挑战者2区", "price": 0.68, "change": 0, "isChallenger": true },
+    { "server": "挑战者3区", "price": 0.66, "change": 0, "isChallenger": true },
+    { "server": "挑战者4区", "price": 0.69, "change": -0.10, "isChallenger": true },
+    { "server": "挑战者5区", "price": 0.68, "change": 0, "isChallenger": true }
+  ],
+  "accountPrices": [
+    { "server": "一区路西德", "account8000": 790, "account8000Change": 0, "power1e": 1688, "power1eChange": -12 },
+    { "server": "一区威尔", "account8000": 750, "account8000Change": -30, "power1e": 1499, "power1eChange": 0 },
+    { "server": "一区奥尔卡", "account8000": 698, "account8000Change": -101, "power1e": 1588, "power1eChange": -12 },
+    { "server": "一区蓝蜗牛", "account8000": 500, "account8000Change": -249, "power1e": 1255, "power1eChange": 0 },
+    { "server": "二区戴米安", "account8000": 570, "account8000Change": 70, "power1e": 1200, "power1eChange": -99 },
+    { "server": "三区希拉", "account8000": 600, "account8000Change": 0, "power1e": 1500, "power1eChange": -249 },
+    { "server": "四区班雷昂", "account8000": 999, "account8000Change": 0, "power1e": 2500, "power1eChange": 0 },
+    { "server": "五区麦格纳斯", "account8000": 799, "account8000Change": 244, "power1e": 1250, "power1eChange": 0 }
+  ]
+}
