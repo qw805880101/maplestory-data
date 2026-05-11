@@ -1,11 +1,11 @@
 {
-  "date": "2026-05-10",
-  "updateTime": "16:11",
+  "date": "2026-05-11",
+  "updateTime": "16:12",
   "source": "菠菜maplestory碎碎念",
   "goldPrices": [
     {
       "server": "一区路西德",
-      "price": 0.86,
+      "price": 0.85,
       "change": -0.01,
       "isChallenger": false
     },
@@ -17,14 +17,14 @@
     },
     {
       "server": "一区奥尔卡",
-      "price": 0.7,
-      "change": 0,
+      "price": 0.69,
+      "change": -0.01,
       "isChallenger": false
     },
     {
       "server": "一区蓝蜗牛",
       "price": 0.82,
-      "change": -0.03,
+      "change": 0,
       "isChallenger": false
     },
     {
@@ -47,20 +47,20 @@
     },
     {
       "server": "五区麦格纳斯",
-      "price": 0.48,
+      "price": 0.47,
       "change": -0.01,
       "isChallenger": false
     },
     {
       "server": "挑战者1区",
-      "price": 0.88,
-      "change": -0.01,
+      "price": 0.85,
+      "change": -0.03,
       "isChallenger": true
     },
     {
       "server": "挑战者2区",
-      "price": 0.77,
-      "change": 0,
+      "price": 0.75,
+      "change": -0.02,
       "isChallenger": true
     },
     {
@@ -85,31 +85,31 @@
   "accountPrices": [
     {
       "server": "一区路西德",
-      "account8000": 800,
-      "account8000Change": 10,
-      "power1e": 1499,
-      "power1eChange": -189
+      "account8000": 750,
+      "account8000Change": -50,
+      "power1e": 1600,
+      "power1eChange": 101
     },
     {
       "server": "一区威尔",
       "account8000": 666,
-      "account8000Change": -84,
-      "power1e": 1800,
-      "power1eChange": 301
+      "account8000Change": 0,
+      "power1e": 1700,
+      "power1eChange": -100
     },
     {
       "server": "一区奥尔卡",
       "account8000": 698,
       "account8000Change": 0,
-      "power1e": 1566,
-      "power1eChange": 66
+      "power1e": 1500,
+      "power1eChange": -66
     },
     {
       "server": "一区蓝蜗牛",
-      "account8000": 747,
-      "account8000Change": 0,
+      "account8000": 749,
+      "account8000Change": 2,
       "power1e": 1222,
-      "power1eChange": -23
+      "power1eChange": 0
     },
     {
       "server": "二区戴米安",
@@ -136,8 +136,8 @@
       "server": "五区麦格纳斯",
       "account8000": 699,
       "account8000Change": 0,
-      "power1e": 1188,
-      "power1eChange": -62
+      "power1e": 1288,
+      "power1eChange": 100
     }
   ]
 }
